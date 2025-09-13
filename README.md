@@ -1,3 +1,3 @@
 # f-strings
 
-Згадай про f-strings 2025
+Згадай про f-strings
